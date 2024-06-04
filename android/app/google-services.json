@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820551323756",
+    "project_id": "zhardem-b5614",
+    "storage_bucket": "zhardem-b5614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820551323756:android:23c50577eb67cdfe420849",
+        "android_client_info": {
+          "package_name": "com.example.zhardem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KHlCkQF9ukC_Fn21DW2Bh10r0j6pAhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
